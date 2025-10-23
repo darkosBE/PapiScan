@@ -42,7 +42,7 @@ class Color:
     YELLOW = colorama.Fore.LIGHTYELLOW_EX
 
 # === Configuration ===
-MONGO_URI = "mongodb+srv://ender:11543452513162580732@cluster0.hutl6by.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = "MONGODB URI"
 DB_NAME = "mcscanner"
 COLLECTION = "servers"
 PING_TIMEOUT = 1.6              # slightly lower to speed up scanning
